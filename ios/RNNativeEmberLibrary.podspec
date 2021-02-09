@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNNativeEmberLibrary"
-  s.version      = "1.0.4"
+  s.version      = "1.0.5"
   s.summary      = "summary RNNativeEmberLibrary"
   s.description  = <<-DESC
                   Description RNNativeEmberLibrary
@@ -18,7 +18,5 @@ Pod::Spec.new do |s|
 
   s.dependency "React"
   #s.dependency "others"
-  s.dependency "EMBERPodFramework", :git => "https://github.com/EnasAhmedZaki/EMBERPodFramework.git"
+  s.dependency "EMBERPodFramework"
 end
-
-  

@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNNativeEmberLibrary"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "summary RNNativeEmberLibrary"
   s.description  = <<-DESC
                   Description RNNativeEmberLibrary
